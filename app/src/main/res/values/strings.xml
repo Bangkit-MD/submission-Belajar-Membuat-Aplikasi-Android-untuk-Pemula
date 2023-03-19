@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">FamilyGuy Characters</string>
+    <string name="character_name_title">Character Name</string>
+    <string name="desc_title">description</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string name="grid">Grid</string>
+    <string name="description_title">Description</string>
+    <string name="episode_title">Episode</string>
+    <string name="full_name">Full name :</string>
+    <string name="voice">Voiced by :</string>
+    <string name="age">Age :</string>
+    <string name="author_name">Kevin Alfito</string>
+    <string name="kevinalfito69_gmail_com">kevinalfito69@gmail.com</string>
+
+    <string-array name="data_name">
+        <item name="peter_griffin">Peter Griffin</item>
+        <item name="lois_griffin">Lois Griffin</item>
+        <item name="meg_griffin">Meg Griffin</item>
+        <item name="chris_griffin">Chris Griffin</item>
+        <item name="stewie_griffin">Stewie Griffin</item>
+        <item name="brian_griffin">Brian Griffin</item>
+        <item name="glenn_quagmire">Glenn Quagmire</item>
+        <item name="joe_swanson">Joe Swanson</item>
+        <item name="cleveland_brown">Cleveland Brown</item>
+        <item name="adam_west">Mayor Adam West</item>
+    </string-array>
+    <string-array name="data_full_name">
+        <item name="peter_löwenbräu_griffin">Peter Löwenbräu Griffin</item>
+        <item name="lois_patrice_griffin">Lois Patrice Griffin</item>
+        <item name="megan_griffin">Megan Griffin</item>
+        <item name="christopher_cross_griffin">Christopher Cross Griffin</item>
+        <item name="stewart_gilligan_griffin">Stewart Gilligan Griffin</item>
+        <item name="brian_griffin">Brian Griffin</item>
+        <item name="glenn_quagmire">Glenn Quagmire</item>
+        <item name="joseph_swanson">Joseph Swanson</item>
+        <item name="cleveland_orenthal_brown">Cleveland Orenthal Brown, Sr.</item>
+        <item name="adam_west">Adam West</item>
+    </string-array>
+    <string-array name="data_desc">
+        <item name="peter_griffin_is">Peter Griffin is the titular main protagonist and one of the six main characters of the American animated sitcom Family Guy. He is voiced by the series\' creator, Seth MacFarlane, and first appeared on television, along with the rest of the Griffin family, in the 15-minute pilot pitch of Family Guy on December 20, 1998. Peter was created and designed by MacFarlane himself. MacFarlane was asked to pitch a pilot to the Fox Broadcasting Company based on Larry and Steve, a short made by MacFarlane which featured a middle-aged character named Larry and an intellectual dog, Steve. After the pilot was given the green light, the Griffin family appeared in the episode \"Death Has a Shadow\".</item>
+        <item name="lois_griffin_is">Lois Griffin is a Protestant with a Long Island and New York accent. She\'s the wife of Peter Griffin and the mother of Meg, Chris and Stewie Griffin. She is the daughter of Carter and Barbara Pewterschmidt. Lois and the rest of the Griffins live in the fictional town of Quahog, Rhode Island which is modeled after Cranston, Rhode Island.[1][2] Lois primarily works as a housewife throughout the series, though she did give piano lessons in early episodes of the series. Lois has also had various jobs in single episodes such as in \"FOX-y Lady\", (season 7, 2009) were she becomes the new reporter for FOX News and in \"It Takes a Village Idiot, and I Married One\", (season 5, 2007) Lois is elected the mayor of Quahog.</item>
+        <item name="megan_aka_megatron">Megan, aka Megatron \"Meg\" Harvey Oswald Griffin is the oldest child of Lois and Peter Griffin, and the sister of Chris and Stewie Griffin. She is currently attending James Woods Regional High School. Meg explains in \"A Fistful of Meg\" that her father changed her birth certificate to \"Megatron\" after her mother had already selected Megan. Despite this, she is still commonly called Megan such as by Mr. Berler in \"Let\'s Go to the Hop\", Stewie in \"A Very Special Family Guy Freakin\' Christmas\" and by Quagmire in \"No Giggity, No Doubt\". In \"Meg\'s Wedding\", Bruce gives her middle names as \'Harvey Oswald\'.</item>
+        <item name="chris_was_born">Chris was born February 8. Chris deals with the problems that most pubescent boys face: acne, girls, and school. Chris has been known to feel self-conscious about himself, especially his weight. In fact, on the Volume 1 DVD Boxset TV guides special Family Guy edition, it stated that Chris \"wouldn\'t hurt a fly, unless it landed on his hot dog\". Due to Chris\' weight, he was referred to as an \"Elephant Child\" when he was born. Chris is also willing to do something as drastic as to convert to Judaism in order to do better in school, specifically math. He once believed his low grades in mathematics were caused when he tickled his brain by sticking an army man\'s rifle into his nose and (presumably) accidentally puncturing a lobe. Chris enjoys drawing and once almost became a famous artist in New York.</item>
+        <item name="stewie_is_a">Stewie is a one-year-old who has a very sophisticated psyche, is able to speak fluently,  and has a peculiar English accent. He reached his first birthday in the season one episode \"Chitty Chitty Death Bang\", and has remained the same age ever since, although it is presumed that he has aged to the age of at least four or five, as he is seen in several episodes going to Pre-school. While highly literate and able to cite pop culture references that date to long before his birth, he is also entranced by Raffi and the Teletubbies. Stewie succumbs to other weaknesses of children his age – he believes Peter has truly disappeared in a game of Peek-a-Boo, talks to his teddy bear (Rupert) as if he were alive, is overcome with laughter when Lois blows on his stomach,[4] and has no idea how to use a toilet. MacFarlane has stated that Stewie is meant to represent the general helplessness of an infant through the eyes of an adult. Per cartoon physics, his ability to move objects of greater weight than himself is not surprising to other characters, nor is his ability to retrieve firearms from hammerspace.</item>
+        <item name="brian_griffin_is">Brian Griffin is a fictional character and one of the main characters of the animated comedy series Family Guy and the pet of the Griffin family. He is voiced by cartoonist Seth MacFarlane and first appeared on television, along with the rest of the family, in the 15-minute short on December 20, 1998. Brian was created and designed by MacFarlane himself. MacFarlane was asked to pitch a pilot to the Fox Broadcasting Company based on Larry and Steve, a short made by MacFarlane which featured a middle-aged character named Larry and an intellectual dog, Steve. After the pilot was given the green light, the Griffin family appeared on the episode \"Death Has a Shadow\".</item>
+        <item name="glenn_quagmire_often">Glenn Quagmire, often referred to by just his surname, is a fictional character from the American adult animated series Family Guy. He is a neighbor and friend of the Griffin family and is best known for his hypersexuality and his catchphrase, \"Giggity\".[1] The show\'s creator and voice actor Seth MacFarlane describes him as \"an appalling human being who is still caught in the Rat Pack era\" based on anachronistic 1950s party-animal clichés.[2] The episode \"Tiegs for Two\" revealed that the surname Quagmire was originally the Polish surname Quagglechek or Quaggleczyk, the suffix -czyk indicating a diminutive in the Polish language.</item>
+        <item name="joseph_joe_swanson">Joseph \"Joe\" Swanson is a macho paraplegic police officer in the Quahog Police Department who is at many times subject to intense anger problems. He is married to Bonnie Swanson and has two children; Susie and Kevin.</item>
+        <item name="he_is_the">He is the fourth member of the group of buddies along with Peter, Quagmire, and Cleveland who live on Spooner Street. He met Peter when, after just moving into Quahog, the Happy-Go-Lucky Toy Factory needed a final member for their company baseball team. Peter knew that Joe had won many awards for playing baseball in the past; he did not know that Joe was paralyzed below the waist. However, as he does most of the time, Joe proved that this wasn\'t enough to stop him and he led the team to victory. He lives at 33 Spooner Street with his family.</item>
+        <item name="adam_west_was">Adam West was the eccentric mayor of Quahog, Rhode Island. Voiced by the actor of the same name, this recurring character constantly wastes the taxpayers\' money. In \"The Story on Page One\", he spent $100,000 from taxes to investigate who was \"stealing his water\" and agreed to have sex with Luke Perry so he would stop stealing his water; it was in fact going into the sink or into the ground as it\'s supposed to. In \"You May Now Kiss the…Uh…Guy Who Receives\", he spent thousands of dollars on a gold statue of the cereal mascot Dig \'Em the Frog. In order to draw attention from this action, he attempted to outlaw Same-Sex Marriage despite his previous affair with Perry. When Brian attempted to get the law overturned by holding West hostage at gun-point, attention was drawn from both the Dig \'Em fiasco and the gay Marriage ban, allowing for Adam West tear up the law.</item>
+    </string-array>
+    <string-array name="data_img">
+        <item>https://static.wikia.nocookie.net/familyguy/images/a/aa/FamilyGuy_Single_PeterDrink_R7.jpg</item>
+        <item>https://static.wikia.nocookie.net/familyguy/images/7/7c/FamilyGuy_Single_LoisPose_R7.jpg</item>
+        <item>https://static.wikia.nocookie.net/familyguy/images/1/1b/FamilyGuy_Single_MegMakeup_R7.jpg</item>
+        <item>https://static.wikia.nocookie.net/familyguy/images/e/ee/FamilyGuy_Single_ChrisText_R7.jpg</item>
+        <item>https://static.wikia.nocookie.net/familyguy/images/9/90/FamilyGuy_Single_StewieBackpack_R7.jpg</item>
+        <item>https://static.wikia.nocookie.net/familyguy/images/c/c2/FamilyGuy_Single_BrianWriter_R7.jpg</item>
+        <item>https://static.wikia.nocookie.net/familyguy/images/1/1f/Quagmire.PNG</item>
+        <item>https://static.wikia.nocookie.net/familyguy/images/9/9c/190px-Joe_Swanson.png</item>
+        <item>https://static.wikia.nocookie.net/familyguy/images/1/1f/Cleveland.png</item>
+        <item>https://static.wikia.nocookie.net/familyguyfanon/images/a/ae/Mayor_Adam_West.png</item>
+    </string-array>
+
+    <string-array name="data_episode">
+        <item name="does_not_appear">Does not appear in \"Send in Stewie, Please\" and appears only in archive footage during the musical numbers in \"Brian and Stewie\".</item>
+        <item name="appears_only_in">Appears only in archive footage during the musical numbers in \"Brian and Stewie\". Appears only as Lady Redbush in \"Peter\'s Progress\". Does not appear but is mentioned in \"Send in Stewie, Please\" and \"The Jersey Bore\".</item>
+        <item name="all_episodes_except">All episodes except \"Believe It or Not, Joe\'s Walking on Air\", \"Love, Blactually\", \"Welcome Back, Carter\", \"Stewie Is Enceinte\", \"Brokeback Swanson\", \"The Dating Game\", \"Send in Stewie, Please\", \"Heart Burn\", \"Tales of Former Sports Glory\" and \"Rock Hard\". Appears only in musical number archive footage in \"Brian and Stewie\", as Meg Peterson in \"Peter\'s Progress\", as Veronica in \"V is for Mystery\" and all stage hands in \"The Jersey Bore\" look like Meg, although she doesn\'t officially appear.</item>
+        <item name="chris_does_not">Chris does not appear in the following episodes: \"Love, Blactually\", \"Three Kings\", \"I Take Thee Quagmire\", \"Brian and Stewie\", \"Welcome Back, Carter\", \"Brian\'s a Bad Father\", \"Scammed Yankees\", \"The Dating Game\", \"Send in Stewie, Please\", \"The Woof of Wall Street\" and \"Tales of Former Sports Glory\". He did not appear in the original broadcast of \"The Hand That Rocks the Wheelchair\", but was added in subsequent airings. Chris also only appears as unnamed British soldier in \"Peter\'s Progress\", Queen Victoria in \"V is for Mystery\", a sound engineer in \"Rock Hard\" and is heard but not seen in \"Mr. and Mrs. Stewie\".</item>
+        <item name="all_except_welcome">All, except \"Welcome Back, Carter\", \"Candy Quahog Marshmallow!\" and \"Tales of Former Sports Glory\". Appeared only as King Stewart III in \"Peter\'s Progress\"</item>
+        <item name="all_except_in">All except \"In Harmony\'s Way\", \"Candy Quahog Marshmallow!\", \"Tales of Former Sports Glory\" and \"The Jersey Bore\"</item>
+        <item name="death_has_a">\"Death Has a Shadow\", \"I Never Met the Dead Man\", \"Mind Over Murder\", \"Da Boom\", \"Brian in Love\", \"Love Thy Trophy\", \"Death Is a Bitch\", \"The King Is Dead\",\"I Am Peter, Hear Me Roar\"</item>
+        <item name="a_hero_sits">\"A Hero Sits Next Door\", \"Da Boom\", \"Love Thy Trophy\",  \"The King Is Dead\",  \"I Am Peter, Hear Me Roar\",  \"A Picture\'s Worth a Thousand Bucks\",  \"Fifteen Minutes of Shame\",  \"E. Peterbus Unum\",  \"Wasted Talent\",  \"Fore Father\"</item>
+        <item name="death_has_a">\"Death Has a Shadow\", \"Mind Over Murder\", \"Da Boom\", \"Brian in Love\", \"Love Thy Trophy\"</item>
+        <item name="fifteen_minutes_of">\"Fifteen Minutes of Shame\", \"E. Peterbus Unum\", \"The Story on Page One\", \"Wasted Talent\", \"One if by Clam, Two if by Sea\",  \"The Kiss Seen Around the World\", \"Emission Impossible\", \"Ready, Willing, and Disabled\"</item>
+    </string-array>
+    <string-array name="data_age">
+        <item name="58_reverted_to">58, reverted to 45 in \"The Jersey Bore\"</item>
+        <item name="43">43</item>
+        <item name="18">18</item>
+        <item name="15">15</item>
+        <item name="1">1</item>
+        <item name="10_70_in">10, 70 in human years</item>
+        <item name="61">61</item>
+        <item name="46">46</item>
+        <item name="42">42</item>
+        <item name="88">88</item>
+    </string-array>
+    <string-array name="data_voice">
+        <item name="seth_macfarlane">Seth MacFarlane</item>
+        <item name="alex_borstein">Alex Borstein</item>
+        <item name="mila_kunis">Mila Kunis</item>
+        <item name="seth_green">Seth Green</item>
+        <item name="seth_macfarlane">Seth MacFarlane</item>
+        <item name="seth_macfarlane">Seth MacFarlane</item>
+        <item name="seth_macfarlane">Seth MacFarlane</item>
+        <item name="patrick_warburton">Patrick Warburton</item>
+        <item name="mike_henry_arif">Mike Henry, Arif Zahir</item>
+        <item name="adam_west">Adam West</item>
+    </string-array>
+</resources>
